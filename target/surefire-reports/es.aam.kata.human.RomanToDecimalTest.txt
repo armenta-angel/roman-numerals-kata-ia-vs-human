@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.aam.kata.human.RomanToDecimalTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 s - in es.aam.kata.human.RomanToDecimalTest
